@@ -1,0 +1,2 @@
+# SchoolServer
+School server
